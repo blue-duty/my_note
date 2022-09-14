@@ -15,5 +15,6 @@
 3. 配置PicGo，如图，仓库名和分支名按实际情况填写，Token即为上步设置的访问令牌，存储路径按自己想法填写，**自定义域名为`https://gcore.jsdelivr.net/gh/{git用户名}/{仓库名}`**![](https://gcore.jsdelivr.net/gh/blue-duty/gitnote-images/img/20220915005700.png)
 4. 设置完成后，就通过PicGo上传图片。
 
-## 三、Git使用
+## 三、Git更新仓库
+目前来看，GitNote
 
