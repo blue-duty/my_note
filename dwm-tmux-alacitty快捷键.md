@@ -77,6 +77,8 @@
 | mod + shift + q | kill window |
 
 <!-- 个人使用习惯 -->
+## 4. Persional use
+
 | 快捷键 | 功能 |
 | :---: | :---: |
 | mod + 2 | open firefox |
